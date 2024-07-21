@@ -1,0 +1,6 @@
+* delete dev : git branch -d dev 
+* list tags: git tag --list 
+* delete tag locally : git tag --delete v1.7
+* delete tag remotly : 
+    1) go to tags 
+    2) in the right click the dots then choose to delete tag 
